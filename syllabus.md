@@ -141,7 +141,7 @@ Labs constitute a significant portion of the course grade. Attendance at your as
 
 ### Exams
 
-Three exams will be given during the semester. These exams will be closed book and closed notes. Exams will cover all material up to that point in the semester. **No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.** A final exam will be given at the end of the semester. This exam is optional and can replace your lowest exam grade. All final exams will be in the course lecture room during the final exam period scheduled by the college ([link](https://www.ycp.edu/academics/final-exam-schedules/)).
+Three exams will be given during the semester. These exams will be closed book and closed notes. Exams will cover all material up to that point in the semester. **No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.** A final exam will be given at the end of the semester. This exam is optional and can replace your lowest exam grade. All final exams will be in the course lecture room during the final exam period scheduled by the college.
 
 **You must receive a score of 70+ on _at least one exam_ to pass the course.**
 
@@ -179,7 +179,7 @@ If you fail to abide by these standards you may be asked to leave for the remain
 
 During the semester the college may close or be delayed due to adverse weather conditions. As all contingencies cannot be anticipated this course will operate under the following directives: 
 
-  1. All students will monitor their emails and the College website for weather updates and follow the Inclement Weather Schedule accordingly ([link](https://www.ycp.edu/academics/inclement-weather-schedule/)).
+  1. All students will monitor their emails and the College website for weather updates and follow the Inclement Weather Schedule accordingly ([link](https://www.ycp.edu/academics/academic-calendars-and-schedules/inclement-weather-schedule/)).
   2. No student should travel or attempt to travel for a class activity if they believe their safety may be in danger. The student should email the instructor regarding their decision within a reasonable time frame.
   3. Absence from a class activity due to adverse weather does not excuse a student from the assigned work. All course work must be completed per the discretion of the instructor.
 
