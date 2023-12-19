@@ -13,6 +13,12 @@ Each week, when a new lab is assigned, you should be working on the *NEW* lab, n
 
 **Week**       | **Lab**                                                                |  **Due**
 :--------------|:-----------------------------------------------------------------------|:--------------------------
+XX             |  XX                                                                    |  XX
+
+
+
+<!-- 
+These are still the old dates
 Week of Jan 30 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week after assigned
 Week of Feb 6  |  [Computer Architecture](labs/lab02.html)                              |  1 week after assigned
 Week of Feb 13 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week after assigned
@@ -27,8 +33,4 @@ Week of Apr 10 |  (continue work on Lab08)                                      
 Week of Apr 17 |  [Introduction to ARM Assembly](labs/lab09.html)                       |  1 week after assigned
 Week of Apr 24 |  [Loop and Function Optimization](labs/lab10.html)                     |  1 week after assigned
 Week of May 1  |  **NO LAB - Last week of classes**                                     |
-
-
-<!-- 
-
  -->

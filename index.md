@@ -8,11 +8,11 @@ title: Fundamentals of Computer Engineering
 
 ## ECE260: Fundamentals of Computer Engineering
 
-## Spring 2023
+## Spring 2024
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for ECE260, Spring 2023 at [York College of Pennsylvania](http://www.ycp.edu).
+This is the website for ECE260, Spring 2024 at [York College of Pennsylvania](http://www.ycp.edu).
 All information related to the course will be posted here.
 
 ## Links
