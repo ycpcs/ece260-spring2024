@@ -25,9 +25,9 @@ title: Syllabus
 **Email:** <jmoscola@ycp.edu><br>
 **Office:** KEC 108<br>
 **Phone:** (717) 815-1276<br>
-**Office Hours:** 
- * MW: 1:30 PM - 3:00 PM
- * TR: 1:00 PM - 2:00 PM
+**Office Hours:** <br>
+&emsp;&emsp; MW: 1:30 PM - 3:00 PM<br>
+&emsp;&emsp; TR: 1:00 PM - 2:00 PM
 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
@@ -42,7 +42,7 @@ An introduction to the design and operation of digital computers, including info
 **Prerequisites:**	ECE220 with a grade of 2.0 or higher<br>
 **Credit:**		4 credit hours<br>
 **Text:**		[Interactive Online zyBook](https://learn.zybooks.com)<br>
-**zyBook Code (Sections 101/102):** **YCPECE260MoscolaSpring2024**<br>
+**zyBook Code (Sections 101/102):** **<span style="color:orange">YCPECE260MoscolaSpring2024</span>**<br>
 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
