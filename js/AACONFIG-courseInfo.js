@@ -51,7 +51,7 @@ var courseInfo = {
         },
         {
             topic: new Topic( "Supporting Nested Procedures", "lectures/lecture8_Supporting_Nested_Procedures.pdf" ),
-            assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 9)
+            assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 12)
         },
         {
             topic: new Topic( "Supporting Nested Procedures (continued)", "lectures/lecture8_Supporting_Nested_Procedures.pdf" )
@@ -129,10 +129,10 @@ var courseInfo = {
         {
             topic: new Topic( "Basics of Cache Memory (continued)", "lectures/lecture18_Basics_of_Cache_Memory.pdf" )
         },
-        {
-           topic: new Topic( "Associative & Set-Associative Caching" ),
-           reading: new Reading("Assign #19 § 5.4")
-        },
+//         {
+//            topic: new Topic( "Associative & Set-Associative Caching" ),
+//            reading: new Reading("Assign #19 § 5.4")
+//         },
         {
             topic: new Topic( "Review for Exam #3" )
         },

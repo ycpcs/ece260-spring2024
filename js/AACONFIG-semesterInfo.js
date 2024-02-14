@@ -11,8 +11,7 @@ var semesterInfo = {
     vacationDates: [
         new VacationDays("Winter Vacation",    new Date("02/29/2024"), new Date("03/03/2024")),
         new VacationDays("Spring Vacation",    new Date("03/29/2024"), new Date("04/01/2024")),
-        new VacationDays("No Class",    new Date("04/12/2024"), new Date("04/12/2024"))
-//         new VacationDays("Snow Day",           new Date("01/01/2022"), new Date("01/01/2022")),
-//         new VacationDays("Spartan Day",        new Date("03/31/2022"), new Date("03/31/2022"))
+        new VacationDays("Snow Day",           new Date("02/13/2024"), new Date("02/13/2024"))
+//         new VacationDays("Spartan Day",        new Date("04/12/2024"), new Date("04/12/2024"))
     ]
 };
