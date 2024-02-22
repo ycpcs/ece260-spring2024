@@ -16,11 +16,10 @@ Each week, when a new lab is assigned, you should be working on the *NEW* lab, n
 Week of Jan 29 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week after assigned
 Week of Feb 5  |  [Computer Architecture](labs/lab02.html)                              |  1 week after assigned
 Week of Feb 12 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week after assigned
-
+Week of Feb 19 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  1 week after assigned
 
 <!-- 
 
-Week of Feb 19 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  1 week after assigned
 Week of Feb 26 |  **NO LAB**                                                            |
 Week of Mar 4  |  [MIPS Procedures](labs/lab05.html)                                    |  1 week after assigned
 Week of Mar 11 |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks after assigned
