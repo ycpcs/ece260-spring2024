@@ -21,10 +21,10 @@ Week of Feb 26 |  **NO LAB**                                                    
 Week of Mar 4  |  [MIPS Procedures](labs/lab05.html)                                    |  1 week after assigned
 Week of Mar 11 |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks after assigned
 Week of Mar 18 |  (continue work on Lab06)                                              |
+Week of Mar 25 |  [Introduction to Floating-Point Operations](labs/lab07.html)          |  1 week after assigned
 
 <!-- 
 
-Week of Mar 25 |  [Introduction to Floating-Point Operations](labs/lab07.html)          |  1 week after assigned
 Week of Apr 1  |  [More Fun with Floats](labs/lab08.html)                               |  2 week after assigned
 Week of Apr 8  |  (continue work on Lab08)                                              |  
 Week of Apr 15 |  [Introduction to ARM Assembly](labs/lab09.html)                       |  1 week after assigned
